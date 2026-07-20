@@ -1,0 +1,1 @@
+anthropic>=0.25   # only needed for analyze_clip (AI grade recommendations)
