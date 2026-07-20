@@ -108,6 +108,16 @@ Notes:
 
 ---
 
+## Contributing
+
+When you're editing with this repo and Claude figures out something new — a grade, a gotcha,
+a useful pattern — have Claude open a PR and share it. The guide is written for Claude Code
+agents, not humans: see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+The more people use this, the better it gets for everyone.
+
+---
+
 ## License
 
 MIT

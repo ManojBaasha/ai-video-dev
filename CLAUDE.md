@@ -130,3 +130,11 @@ does exactly that. See `examples/` for common patterns.
 - `ANTHROPIC_API_KEY` env var (only needed for `analyze_clip`)
 
 All video processing is ffmpeg under the hood. No other video libraries.
+
+---
+
+## Contributing findings back
+
+When you solve something new — a grade that works well on footage not covered yet, a gotcha
+you hit and fixed, a useful ffmpeg pattern — contribute it back so every future user gets it
+for free. See `CONTRIBUTING.md` for exactly how to do this.
