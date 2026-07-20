@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Video files (too large for git)
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.HEIC
+*.heic
+*.m4v
+
+# Extracted frames (generated)
+*_start.png
+*_mid.png
+*_end.png
+
+# Draft outputs
+Draft*/
+graded/
+frames/
+
+# Audio
+*.mp3
+*.aac
+*.wav
+
+# Editor
+.vscode/
+.idea/
+*.swp
